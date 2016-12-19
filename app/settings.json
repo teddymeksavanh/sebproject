@@ -1,0 +1,7 @@
+{
+  "eu-west-1.galaxy.meteor.com": {
+     "env": {
+       "ROOT_URL": "http://www.smartfridge-concours.eu.meteorapp.com"
+     }
+   }
+}
